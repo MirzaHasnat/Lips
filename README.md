@@ -2,9 +2,12 @@
 Lips is a project for changing lips color or installing virtual lipstick on your lips
 
 # Requirements
-1.npm
-2.django
-3.python3
+1.npm\
+to install npm run `apt-get install npm nodejs`\
+3.django\
+to install django run `pip3 install django` or `pip install django`\
+5.python3\
+to install python run `apt-get install python`
 
 
 # How to setup project
